@@ -6,7 +6,7 @@ AWS Data Exchange (ADX) is a data marketplace that connects data providers with 
 
 We at Rearc are tirelessly working to figure out which datasets are important to our subscribers. Open issues are being prioritized on our [project board](https://github.com/rearc-data/covid-datasets-aws-data-exchange/projects/1). If you are interested in seeing a different public dataset on the ADX platform, please [open an issue](https://github.com/rearc-data/covid-datasets-aws-data-exchange/issues/new) on this repository.
 
-If you are a data provider interested in making your proprietary data available on the ADX platform with Rearc's help, or simply have a question, reach us at [info@rearc.io](mailto:info@rearc.io).
+If you are a data provider interested in making your proprietary data available on the ADX platform with Rearc's help, or simply have a question, reach us at [data@rearc.io](mailto:data@rearc.io).
 
 ## Current set of Rearc-published COVID-19 related data products on AWS Data Exchange:
 
