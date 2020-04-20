@@ -30,7 +30,7 @@ This release contains the provisional counts for coronavirus disease (COVID-19) 
 Yu Group at UC Berkeley is working to help forecast the severity of the COVID-19 epidemic both for individual counties and individual hospitals. This release contains datasets for the Prediction and Severity Index models produced by Yu Group. (Published April 16, 2020)
 10. [**COVID-19 Apple Mobility Trends Reports**](https://aws.amazon.com/marketplace/pp/prodview-acck5rnrfjl2w?ref_=srh_res_product_title)
 This dataset contains COVID‑19 mobility trends in countries/regions and cities from Apple. The CSV file show a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020. (Published April 18, 2020)
-11. [**Google COVID-19 Community Mobility Reports**] (https://aws.amazon.com/marketplace/pp/prodview-crrq42gujge3k?ref_=srh_res_product_title)
+11. [**Google COVID-19 Community Mobility Reports**](https://aws.amazon.com/marketplace/pp/prodview-crrq42gujge3k?ref_=srh_res_product_title)
 Google's COVID-19 Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
-12. [**Provisional Death Counts for COVID-19: Weekly State-Specific Data Updates by Select Demographic and Geographic Characteristics | CDC**] 
+12. **Provisional Death Counts for COVID-19: Weekly State-Specific Data Updates by Select Demographic and Geographic Characteristics | CDC** 
 This report provides a weekly summary of deaths with coronavirus disease 2019 (COVID-19) by select geographic and demographic variables. In this release, counts of deaths are provided by the race and Hispanic origin of the decedent.
