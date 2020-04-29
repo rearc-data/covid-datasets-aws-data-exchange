@@ -73,3 +73,7 @@ This release contains the provisional count of deaths involving coronavirus dise
 16. **Coronavirus (COVID-19) Cases and Deaths | World Health Organization, WHO** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-mjcf5mdms4wvw) | [GitHub Repository](https://github.com/rearc-data/who-covid-19-cases-deaths)
 
 This release contains the `Coronavirus (COVID-19) Cases and Deaths` data released by the World Health Organization (WHO). This dataset updates daily, and provides new cases, cumulative cases, new deaths, and cumulative death counts by country as a result of the COVID-19 pandemic. (Published April 22, 2020)
+
+17. **Genomic Epidemiology of Novel Coronavirus (COVID-19) | Nextstrain** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-2vjwawjmek2vy) | [GitHub Repository](https://github.com/rearc-data/nextstrain-hcov-19)
+
+Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. This resource shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. (Published April 29, 2020)
