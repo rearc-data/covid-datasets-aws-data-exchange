@@ -86,7 +86,7 @@ If you are a data provider interested in making your proprietary data available 
 
 - This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by week and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published May 1, 2020)
 
-20. **Provisional COVID-19 Death Counts by Place of Death and State | CDC/NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-oshy5mjlhgky2) | [GitHub Repository](https://github.com/rearc-data/covid-19-death-counts-place-states)
+20. **Provisional COVID-19 Death Counts by Place of Death and State | CDC / NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-oshy5mjlhgky2) | [GitHub Repository](https://github.com/rearc-data/covid-19-death-counts-place-states)
 
 - This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by place of death and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published April 29, 2020)
 
