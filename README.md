@@ -77,3 +77,23 @@ If you are a data provider interested in making your proprietary data available 
 17. **Genomic Epidemiology of Novel Coronavirus (COVID-19) | Nextstrain** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-2vjwawjmek2vy) | [GitHub Repository](https://github.com/rearc-data/nextstrain-hcov-19)
 
 - Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. This resource shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) viruses from the ongoing novel coronavirus COVID-19 pandemic. (Published April 29, 2020)
+
+18. **Geographic Distribution of COVID-19 Cases Worldwide | ECDC** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-xivbva4hrpnwe) | [GitHub Repository](https://github.com/rearc-data/covid-19-worldwide-ecdc)
+
+- This product includes the European Centre for Disease Prevention and Control's (ECDC) dataset on the daily geographic distribution of COVID-19 cases worldwide. (Published May 1, 2020)
+
+19. **Provisional COVID-19 Death Counts by Week Ending Date and State | CDC / NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-i7vjwbzt3rsnu) | [GitHub Repository](https://github.com/rearc-data/covid-19-death-counts-week-states)
+
+- This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by week and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published May 1, 2020)
+
+20. **Provisional COVID-19 Death Counts by Place of Death and State | CDC/NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-oshy5mjlhgky2) | [GitHub Repository](https://github.com/rearc-data/covid-19-death-counts-place-states)
+
+- This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by place of death and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published April 29, 2020)
+
+21. **Provisional COVID-19 Death Counts by Sex, Age, and State | CDC / NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-fbud5zxqg37cm) | [GitHub Repository](https://github.com/rearc-data/covid-19-death-counts-sex-age-state)
+
+- This release contains the provisional count of deaths involving coronavirus disease 2019 (COVID-19) by Sex, Age and State released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published May 1, 2020)
+
+22. **Excess Deaths Associated with COVID-19 | CDC / NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-xcevflgivca5w) | [GitHub Repository](https://github.com/rearc-data/excess-deaths-covid-19)
+
+- This release contains estimations for excess deaths in association with the coronavirus disease 2019 (COVID-19) released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published May 1, 2020)
