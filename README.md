@@ -97,3 +97,7 @@ If you are a data provider interested in making your proprietary data available 
 22. **Excess Deaths Associated with COVID-19 | CDC / NCHS** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-xcevflgivca5w) | [GitHub Repository](https://github.com/rearc-data/excess-deaths-covid-19)
 
 - This release contains estimations for excess deaths in association with the coronavirus disease 2019 (COVID-19) released by the Center for Disease Control and Prevention (CDC) and National Center for Health Statistics (NCHS). (Published May 1, 2020)
+
+23. **COVID-19 United States Reopen and Shut Down Status by State | NY Times** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-ejbvrkmiwc5so) | [GitHub Repository](https://github.com/rearc-data/nyt-states-reopen-status-covid-19)
+
+- This resource is adapted from an article published by The New York Times - [See Which States Are Reopening and Which Are Still Shut Down](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). The included dataset offers a state-by-state overview of the current level of reopen and/or shut down as a result of the coronavirus (COVID-19) pandemic. Estimated state population data from the United States Census Bureau is also included. (Published May 4, 2020)
