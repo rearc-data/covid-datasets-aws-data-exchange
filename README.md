@@ -101,3 +101,11 @@ If you are a data provider interested in making your proprietary data available 
 23. **COVID-19 United States Reopen and Shut Down Status by State | NY Times** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-ejbvrkmiwc5so) | [GitHub Repository](https://github.com/rearc-data/nyt-states-reopen-status-covid-19)
 
 - This resource is adapted from an article published by The New York Times - [See Which States Are Reopening and Which Are Still Shut Down](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). The included dataset offers a state-by-state overview of the current level of reopen and/or shut down as a result of the coronavirus (COVID-19) pandemic. Estimated state population data from the United States Census Bureau is also included. (Published May 4, 2020)
+
+24. **NYC Coronavirus (COVID-19) Data | New York City Department of Health** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-flc4q2mgzczvm) | [GitHub Repository](https://github.com/rearc-data/nyc-doh-covid-19)
+
+- This resource contains data assembled by the NYC Department of Health and Mental Hygiene (DOHMH)'s COVID-19 Response team, and provides insight into the current state of the COVID-19 epidemic in New York City. As DOHMH collects their data in realtime, the values in the included datasets are subject to change. (Published May 6, 2020)
+
+25. **Clinical Studies Related To COVID-19 | ClinicalTrials.gov (US NLM)** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-55n3sf4ls3axe) | [GitHub Repository](https://github.com/rearc-data/clinicaltrials-covid-19-us-nlm)
+
+- This product contains daily updating list of clinical studies related to the coronavirus disease (COVID-19). This data was accessed from ClinicalTrials.gov, a database of privately and publicly funded clinical studies conducted around the world, which is maintained by the United States National Library of Medicine. (Published May 6, 2020)
