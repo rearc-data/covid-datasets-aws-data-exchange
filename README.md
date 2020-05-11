@@ -109,3 +109,15 @@ If you are a data provider interested in making your proprietary data available 
 25. **Clinical Studies Related To COVID-19 | ClinicalTrials.gov (US NLM)** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-55n3sf4ls3axe) | [GitHub Repository](https://github.com/rearc-data/clinicaltrials-covid-19-us-nlm)
 
 - This product contains daily updating list of clinical studies related to the coronavirus disease (COVID-19). This data was accessed from ClinicalTrials.gov, a database of privately and publicly funded clinical studies conducted around the world, which is maintained by the United States National Library of Medicine. (Published May 6, 2020)
+
+26. **HRSA Provider Relief Fund – General Allocation | CDC / HRSA** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-b43pvyl5pxq6k) | [GitHub Repository](https://github.com/rearc-data/hrsa-provider-relief-fund-covid-19)
+
+- The bipartisan CARES Act and the Paycheck Protection Program and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and other healthcare providers on the front lines of the coronavirus response. This dataset represents the list of providers who received a payment from the General Distribution of the Provider Relief Fund and who have attested payments and agreed to the Terms and Conditions. (Published May 11, 2020)
+
+27. **Provider Relief Fund COVID-19 High-Impact Payments | CDC / HRSA** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-aycz6azozcz6m) | [GitHub Repository](https://github.com/rearc-data/provider-relief-fund-high-impact-covid-19)
+
+- The bipartisan CARES Act and the Paycheck Protection Program and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and other healthcare providers on the front lines of the coronavirus response. This dataset includes details on payments allocated to 395 hospitals which accounted for 71 percent of COVID-19 inpatient admissions reported to HHS from nearly 6,000 hospitals around the country. (Published May 11, 2020)
+
+
+
+
