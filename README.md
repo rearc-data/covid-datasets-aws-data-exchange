@@ -118,6 +118,10 @@ If you are a data provider interested in making your proprietary data available 
 
 - The bipartisan CARES Act and the Paycheck Protection Program and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and other healthcare providers on the front lines of the coronavirus response. This dataset includes details on payments allocated to 395 hospitals which accounted for 71 percent of COVID-19 inpatient admissions reported to HHS from nearly 6,000 hospitals around the country. (Published May 11, 2020)
 
+28. **COVID-19 Deaths | Race and Hispanic Origin Group and Age, by State | CDC** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-tjm6gb2u2vn26) | [GitHub Repository](https://github.com/rearc-data/deaths-covid-19-by-race-age-state-cdc)
 
+- This release contains counts for deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to National Center for Health Statistics (NCHS) by race, age, and state. (Published May 11, 2020)
 
+29. **Conditions Contributing to Deaths involving COVID-19, by Age, U.S. | CDC** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-ntlslb5k6aujc) | [GitHub Repository](https://github.com/rearc-data/conditions-contributing-to-deaths-covid-19)
 
+- This resource shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020. (Published May 11, 2020)
