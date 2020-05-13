@@ -125,3 +125,7 @@ If you are a data provider interested in making your proprietary data available 
 29. **Conditions Contributing to Deaths involving COVID-19, by Age, U.S. | CDC** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-ntlslb5k6aujc) | [GitHub Repository](https://github.com/rearc-data/conditions-contributing-to-deaths-covid-19)
 
 - This resource shows health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) starting from February 1, 2020. (Published May 11, 2020)
+
+30. **COVID-19 Deutschland | Robert Koch-Institut (RKI) | COVID-19 Germany** | [ADX Product Listing](https://aws.amazon.com/marketplace/pp/prodview-ml7k2bnvh4i5c) | [GitHub Repository](https://github.com/rearc-data/covid-19-deutschland-robert-koch-institut)
+
+- This resource is produced by the Robert Koch Institute (RKI), and updates daily with details regarding the current number of COVID-19 cases in Germany. Note, The dataset included with this product is in German. (Published May 13, 2020)
