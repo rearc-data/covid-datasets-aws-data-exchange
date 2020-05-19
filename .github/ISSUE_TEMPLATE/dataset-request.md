@@ -7,22 +7,22 @@ assignees: 'derekwolpert'
 
 ---
 
-Dataset name | Publisher
+**Dataset name | Publisher**
 
 Ex. COVID-19 Data in the United States | The New York Times
 
-Link to the dataset
+**Link to the dataset**
 
 Ex. https://github.com/nytimes/covid-19-data
 
-License information (if available)
+**License information (if available)**
 
 Ex. https://raw.githubusercontent.com/nytimes/covid-19-data/master/LICENSE
 
-Frequency (if available)
+**Frequency (if available)**
 
 Ex. Daily
 
-Formats (if available)
+**Formats (if available)**
 
 Ex. CSV, JSON
